@@ -1,0 +1,13 @@
+This project demonstrates a simple Text to Speech application using Python and the gTTS library.
+
+The script reads text from this file and converts it into spoken audio using Google's Text-to-Speech API. The output is saved as an MP3 file and played automatically.
+
+This type of application can be useful for:
+- Visually impaired users who need text read aloud
+- Creating voice content from written material
+- Making educational tools or reading assistants
+
+Developed using:
+- Python
+- gTTS (Google Text-to-Speech)
+- OS module for playback
